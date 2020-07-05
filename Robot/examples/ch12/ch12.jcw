@@ -1,0 +1,37 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch12</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch12.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>hangman\hangman.jcp</path>
+		</project>
+		<project>
+			<path>dancers2\dancers2.jcp</path>
+		</project>
+		<project>
+			<path>dancers\dancers.jcp</path>
+		</project>
+		<project>
+			<path>comparable\comparable.jcp</path>
+		</project>
+		<project>
+			<path>invoice\invoice.jcp</path>
+		</project>
+		<project>
+			<path>comparators\comparators.jcp</path>
+		</project>
+		<project>
+			<path>layoutManagers\layoutManagers.jcp</path>
+		</project>
+		<project>
+			<path>iMove\iMove.jcp</path>
+		</project>
+	</projects>
+</workspace>

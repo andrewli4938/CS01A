@@ -1,0 +1,42 @@
+<?xml?>
+<project>
+	<settings>
+		<label>userIO</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK useRobots</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>ListFilesBySize</run>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>personalLib</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<fileitem>
+				<path>ListFilesBySize.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>Prompt.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>ServerRecord.java</path>
+				<source>true</source>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

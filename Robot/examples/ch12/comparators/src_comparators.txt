@@ -1,0 +1,7 @@
+D:\Robots\examples\ch12\comparators\ConsultingLineItem.java
+D:\Robots\examples\ch12\comparators\Customer.java
+D:\Robots\examples\ch12\comparators\GoodsLineItem.java
+D:\Robots\examples\ch12\comparators\Invoice.java
+D:\Robots\examples\ch12\comparators\LineItem.java
+D:\Robots\examples\ch12\comparators\Main.java
+D:\Robots\examples\ch12\comparators\ServiceLineItem.java

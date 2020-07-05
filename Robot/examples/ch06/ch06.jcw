@@ -1,0 +1,25 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch06</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch06.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>counter\counter.jcp</path>
+		</project>
+		<project>
+			<path>simpleBots\simpleBots.jcp</path>
+		</project>
+		<project>
+			<path>thermometer\thermometer.jcp</path>
+		</project>
+		<project>
+			<path>limitedBot\limitedBot.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,34 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch03</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch03.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>harvestWithThree\harvestWithThree.jcp</path>
+		</project>
+		<project>
+			<path>harvestLongRow\harvestLongRow.jcp</path>
+		</project>
+		<project>
+			<path>harvest\harvest.jcp</path>
+		</project>
+		<project>
+			<path>harvestWithSix\harvestWithSix.jcp</path>
+		</project>
+		<project>
+			<path>harvestWithSixThreads\harvestWithSixThreads.jcp</path>
+		</project>
+		<project>
+			<path>stickFigure\stickFigure.jcp</path>
+		</project>
+		<project>
+			<path>debugging\debugging.jcp</path>
+		</project>
+	</projects>
+</workspace>

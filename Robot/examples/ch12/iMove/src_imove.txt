@@ -1,0 +1,5 @@
+D:\Robots\examples\ch12\iMove\Banner.java
+D:\Robots\examples\ch12\iMove\IMove.java
+D:\Robots\examples\ch12\iMove\LeftDancer.java
+D:\Robots\examples\ch12\iMove\Main.java
+D:\Robots\examples\ch12\iMove\RightDancer.java

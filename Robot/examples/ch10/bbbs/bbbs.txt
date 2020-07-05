@@ -1,0 +1,1600 @@
+Kenneth A Parsons
+1997/8/7 MALE LITTLE
+0.9 0.3 0.6 0.5
+
+Beth A Reyburn
+1993/8/27 FEMALE LITTLE
+0.3 0.0 0.1 0.8
+Soula Bobotsis
+Kathleen A Waller
+1979/5/4 FEMALE BIG
+0.7 0.4 0.5 0.5
+
+Roydyn A. Clayton
+1993/5/25 MALE LITTLE
+0.2 0.5 0.0 0.5
+
+Christopher Aaron Fairles
+1981/2/2 MALE BIG
+0.5 0.2 0.8 0.3
+Trevor Gary Clarke
+Tunazzina Abedin
+1989/2/10 FEMALE LITTLE
+0.0 0.9 0.1 0.5
+
+Foster Adade
+1994/1/14 MALE LITTLE
+0.4 0.3 0.4 1.0
+Andre Chang
+Ali Ahmed Ansari
+1985/7/12 MALE BIG
+0.9 1.0 0.6 0.5
+Andrew B Dowdall
+Zaki Ahmed Shah Agha
+1980/9/2 FEMALE BIG
+0.8 0.8 0.8 0.1
+Soo-Ling Chan
+Salim Ahmed
+1976/2/10 MALE BIG
+0.8 0.9 0.6 0.6
+Basel Khedr
+Kala Aiden Carrol
+1992/2/16 FEMALE LITTLE
+0.3 0.9 0.3 0.7
+
+Michael Alan Kavchak
+1976/11/2 MALE BIG
+0.6 0.8 1.0 0.7
+Elefterios Fountoulakis
+Paul Albert Preece
+1996/1/24 MALE LITTLE
+0.6 0.7 0.8 0.6
+Raymond Casey
+Victor Alexander Leipnik
+1982/7/25 MALE BIG
+0.8 0.3 0.8 0.7
+Andrew Chik
+Bahram Alipour
+1997/5/16 MALE LITTLE
+0.3 0.8 1.0 0.2
+Myung Hwan Ko
+Jeffrey Allan Timko
+1988/9/10 MALE LITTLE
+0.5 0.4 0.7 0.1
+
+David Allen Keir
+1991/3/20 MALE LITTLE
+0.8 0.3 0.3 0.6
+
+Candace Allison Cooper
+1997/6/29 FEMALE LITTLE
+0.7 0.5 0.9 0.3
+Kimberly Luella Tuck
+William Andrew Bronsema
+1988/1/19 MALE LITTLE
+0.9 0.7 0.4 0.2
+Gregory Gordon Stewart
+Stuart Andrew Doherty
+1991/9/6 MALE LITTLE
+0.2 0.9 0.5 0.6
+Philip James Reginal Watson
+Thomas Andrew Jeffery
+1994/3/14 MALE LITTLE
+0.7 0.1 0.6 0.4
+
+John Andrew Nyenhuis
+1988/2/21 MALE LITTLE
+0.3 0.7 0.5 0.6
+
+Michael Andrew Wahlstrom
+1988/9/20 MALE LITTLE
+0.1 0.6 0.5 0.2
+
+Pei-Wen Andy Chiu
+1985/7/17 MALE BIG
+0.4 0.3 0.1 0.7
+Benny Chan
+Ankur Aneja
+1984/5/11 MALE BIG
+0.1 0.7 0.1 0.8
+Trevor Ryan Smith
+Claire Angela Meiklejohn
+1981/4/14 FEMALE BIG
+0.2 0.5 0.6 0.1
+
+Lynn Angela Ng
+1974/1/24 FEMALE BIG
+0.4 0.3 0.3 0.7
+
+Stacey Ann Harris
+1989/6/2 FEMALE LITTLE
+0.3 0.0 0.8 0.1
+
+Sabrina Ann Venir
+1977/5/15 FEMALE BIG
+0.1 0.6 0.4 0.9
+
+Rebecca Anne De Boer
+1985/8/16 FEMALE BIG
+0.2 0.7 0.8 0.8
+Donnette Malcolm
+Caroline Anne Pereira
+1983/3/26 FEMALE BIG
+0.0 0.6 0.0 0.3
+
+Lin Antonette Javier
+1992/10/21 FEMALE LITTLE
+0.5 0.3 0.9 0.7
+
+Marina Ashley Terdik
+1995/11/25 FEMALE LITTLE
+0.9 0.3 0.3 0.6
+Meng Zhang
+Andrew B Dowdall
+1989/8/17 MALE LITTLE
+0.7 0.9 0.8 0.7
+Ali Ahmed Ansari
+Ciprian Badea
+1983/1/25 MALE BIG
+0.4 0.1 0.2 0.1
+John Yeum
+Priti Balchandani
+1976/5/18 FEMALE BIG
+0.2 0.6 0.9 0.7
+Hua Ying Yang
+Han Bob Yan
+1984/11/25 MALE BIG
+0.1 0.5 0.7 0.8
+Prasanna Kannan
+Soula Bobotsis
+1977/5/30 FEMALE BIG
+0.6 0.5 0.8 1.0
+Beth A Reyburn
+Randal Brian Mark Pahl
+1950/9/20 MALE BIG
+0.5 0.1 1.0 0.1
+Harpartap Chahal
+Kuyler Bruce Neable
+1994/5/24 MALE LITTLE
+0.4 0.6 0.5 0.9
+Ronald Eden Burton
+Steven Burgess Kinnear
+1978/10/30 MALE BIG
+0.7 0.8 0.3 0.1
+Ritesh Khanna
+Graham C Durrant
+1980/4/15 MALE BIG
+0.6 1.0 0.1 0.7
+Ko Han Chen
+Daniel C Hsueh
+1994/11/21 MALE LITTLE
+0.2 0.2 1.0 0.8
+Gianluigi Duiella
+Jennifer C Percival
+1995/1/27 FEMALE LITTLE
+0.4 0.3 0.1 0.2
+
+Lilly Cai
+1989/8/27 FEMALE LITTLE
+0.0 0.8 0.3 0.7
+
+Scott Calder
+1984/8/7 MALE BIG
+0.8 0.9 0.3 0.6
+Kent Westlund
+Megan Campbell
+1995/6/8 FEMALE LITTLE
+0.6 0.4 0.8 1.0
+Melissa Jane Logtenberg
+Christopher Carl Dietrich
+1964/6/19 MALE BIG
+0.9 1.0 1.0 0.2
+Jason Hynes
+Robert Carnovale
+1991/1/10 MALE LITTLE
+0.7 0.5 0.8 0.1
+
+Jacqueline Carol Yang
+1989/8/13 FEMALE LITTLE
+1.0 0.2 0.2 0.0
+
+Stephanie Carolin Heinze
+1983/9/18 FEMALE BIG
+0.9 0.6 0.6 0.4
+Zhuo Tang Ma
+Raymond Casey
+1970/3/13 MALE BIG
+1.0 0.9 0.8 0.2
+Paul Albert Preece
+Michael Cerny
+1988/3/11 MALE LITTLE
+0.2 0.5 0.6 0.5
+
+Harpartap Chahal
+1992/3/8 MALE LITTLE
+0.8 0.2 1.0 0.3
+Randal Brian Mark Pahl
+Lyle Chamarette
+1982/10/9 MALE BIG
+0.2 0.2 0.7 0.9
+Srikumar Coomaraswamy
+Stephanie Chan Tang Kwan
+1989/11/25 FEMALE LITTLE
+0.8 0.5 0.0 0.0
+
+Soo-Ling Chan
+1989/6/2 FEMALE LITTLE
+0.5 0.2 1.0 0.0
+Zaki Ahmed Shah Agha
+Benny Chan
+1993/5/18 MALE LITTLE
+1.0 0.7 0.0 0.7
+Pei-Wen Andy Chiu
+Vincent Chan
+1996/2/27 MALE LITTLE
+0.2 0.3 0.8 0.5
+
+Andre Chang
+1976/1/28 MALE BIG
+0.1 0.1 0.1 0.7
+Foster Adade
+Hing Cheung Francis Tse
+1989/6/28 MALE LITTLE
+0.8 0.9 0.2 0.1
+Bradley Douglas Oldenburg
+Jonathan Cheung Ngai Ching
+1995/3/19 MALE LITTLE
+0.8 0.4 0.6 0.3
+
+King Chi Derek Wu
+1985/5/28 MALE BIG
+0.8 0.6 0.6 0.7
+Christopher Marton
+Aaron Chi Hin Chu
+1996/1/16 MALE LITTLE
+0.7 0.1 1.0 0.6
+Eugene Ens
+Andrew Chik
+1992/10/19 MALE LITTLE
+0.9 0.2 0.8 0.7
+Victor Alexander Leipnik
+Yuen Ching Elinor Chuk
+1997/3/15 FEMALE LITTLE
+0.8 0.7 0.0 0.3
+
+Denise Ching Yee Chang
+1993/5/7 FEMALE LITTLE
+0.0 0.3 0.4 0.6
+
+Jaime Ching-Man Yeung
+1981/11/28 FEMALE BIG
+0.4 0.1 0.7 0.1
+
+Kelly Christine Rehel
+1989/8/23 FEMALE LITTLE
+0.5 0.6 0.5 0.2
+Dimpy Gupta
+Felicia Chui Yee Seto
+1989/4/28 FEMALE LITTLE
+0.3 0.6 0.7 0.3
+
+Gloria Chung
+1964/4/7 FEMALE BIG
+0.8 0.8 0.5 0.0
+
+David Chung
+1979/6/11 MALE BIG
+0.9 0.1 0.5 0.4
+Stefan Janhunen
+Jeff Clemmensen
+1996/9/5 MALE LITTLE
+0.1 0.1 0.0 0.5
+
+Srikumar Coomaraswamy
+1990/3/13 MALE LITTLE
+0.4 0.1 1.0 0.9
+Lyle Chamarette
+Anna Cornelia Maria Whittaker
+1959/10/26 FEMALE BIG
+0.2 0.9 0.8 0.3
+
+Erin Cristina Lester
+1989/11/2 FEMALE LITTLE
+0.6 1.0 0.2 0.6
+
+Cindy Crnac
+1949/9/16 FEMALE BIG
+0.6 0.0 0.5 1.0
+
+Chi Cuong Lieu
+1993/6/8 MALE LITTLE
+0.4 0.2 0.1 0.9
+
+Salvatore Curcio
+1983/5/11 MALE BIG
+0.8 0.9 0.2 0.3
+Joseph Warwick V Hewitt
+Colleen D Majaury
+1982/10/9 FEMALE BIG
+0.3 0.3 0.6 0.9
+
+Janna D. Gillick
+1995/11/4 FEMALE LITTLE
+0.6 0.8 0.6 0.9
+Sonja Kathryn Fransen
+Angela D. Reid
+1983/9/22 FEMALE BIG
+0.5 0.1 0.4 0.7
+
+Michael Damaskinos
+1992/6/4 MALE LITTLE
+0.9 0.3 0.0 0.0
+
+Edwin Daniel Hayhoe
+1985/1/18 MALE BIG
+0.0 0.7 0.1 0.6
+Wayne Yang
+Ian David Gaudet
+1963/4/24 MALE BIG
+0.8 0.6 0.6 0.1
+Eric Lo
+Christopher David Heakes
+1990/2/11 MALE LITTLE
+0.0 0.4 0.7 0.9
+Stephen Joseph Harris
+Tara Dawn Shillington
+1992/7/25 FEMALE LITTLE
+0.0 0.1 0.2 0.9
+
+Shelby Dawn Winkler
+1992/2/22 FEMALE LITTLE
+0.2 0.1 0.3 0.7
+
+Kris Dawnlyn Boundy
+1983/8/23 FEMALE BIG
+0.2 0.9 0.7 0.6
+Mansi Rastogi
+Samandeep Dhariwal
+1982/5/8 FEMALE BIG
+1.0 0.1 0.3 0.7
+Qi Liu
+Hong Dinh
+1992/4/1 FEMALE LITTLE
+0.8 0.7 1.0 0.5
+Ada Wong
+Justin Dorland
+1958/7/26 MALE BIG
+0.8 0.4 0.8 0.5
+Shan Syed
+Bryan Douglas Gordon
+1992/3/9 MALE LITTLE
+0.0 0.1 0.2 0.8
+
+Bradley Douglas Oldenburg
+1984/8/5 MALE BIG
+1.0 0.6 0.0 0.0
+Hing Cheung Francis Tse
+Donald Drew Langelo
+1959/3/15 MALE BIG
+0.7 0.8 0.3 0.6
+Chaten Patel
+Gianluigi Duiella
+1977/1/7 MALE BIG
+0.2 0.0 0.5 0.7
+Daniel C Hsueh
+Barbara E Allen
+1979/3/29 FEMALE BIG
+0.4 0.1 0.7 0.9
+Yunqi Zhang
+Ronald Eden Burton
+1984/11/4 MALE BIG
+0.4 0.4 0.4 0.8
+Kuyler Bruce Neable
+Shelley Elizabeth McLennan
+1994/1/3 FEMALE LITTLE
+0.3 0.0 0.7 0.8
+
+Ginger Elizabeth Tien
+1990/9/10 FEMALE LITTLE
+0.5 0.5 0.2 0.9
+
+Esther Ella Small
+1995/1/23 FEMALE LITTLE
+0.8 0.4 0.6 0.5
+Sakina Raza
+Tanya Ellen Thorvardson
+1989/3/29 FEMALE LITTLE
+0.6 0.5 0.5 1.0
+
+Geoffrey Emile Fernandes
+1991/6/7 MALE LITTLE
+0.2 0.3 0.9 0.2
+
+Eugene Ens
+1985/9/16 MALE BIG
+0.8 0.2 0.7 0.6
+Aaron Chi Hin Chu
+Analyn Erlinda Sosa Saupan
+1993/9/20 FEMALE LITTLE
+0.8 0.0 0.6 0.9
+
+Maria Eugenia Wilhelm
+1997/4/21 FEMALE LITTLE
+0.7 0.3 0.3 0.8
+Tamara Paton
+Kin Fai F Kwok
+1980/5/29 MALE BIG
+0.1 0.3 0.8 0.7
+Cheng-Jung Ho
+Lesja Fedewicz
+1979/6/5 FEMALE BIG
+0.3 0.1 0.7 0.2
+
+Cherie-Lee Fietsch
+1989/6/16 FEMALE LITTLE
+0.4 0.7 0.3 0.4
+
+Julie Forsyth
+1978/5/2 FEMALE BIG
+0.1 0.5 0.3 0.7
+
+Elefterios Fountoulakis
+1997/3/20 MALE LITTLE
+0.7 0.8 0.7 0.7
+Michael Alan Kavchak
+Sylvan Francis Koo
+1993/7/2 MALE LITTLE
+0.1 0.7 0.2 0.0
+
+Kurt Fraser
+1991/11/6 MALE LITTLE
+0.2 0.4 0.9 0.1
+
+Alexander Frederick Murray
+1979/6/4 MALE BIG
+0.6 0.1 0.0 0.6
+Peter Lawrence Thompson
+Jonathan G Ford
+1990/1/12 MALE LITTLE
+0.6 0.8 0.2 0.7
+Jeffrey Hui
+Christina G. Pilkington
+1980/10/13 FEMALE BIG
+0.3 0.4 1.0 0.6
+
+Allen Ga Len Wong
+1991/10/4 MALE LITTLE
+0.6 0.6 0.8 0.1
+
+Nerissa Garcia
+1995/9/2 FEMALE LITTLE
+0.6 0.5 0.6 0.6
+
+Trevor Gary Clarke
+1997/7/9 MALE LITTLE
+0.9 0.4 1.0 0.6
+Christopher Aaron Fairles
+Zhong Ge
+1994/10/15 MALE LITTLE
+0.2 0.1 0.4 0.5
+
+Prabhdeep Gill
+1995/6/5 FEMALE LITTLE
+0.5 0.5 0.5 0.3
+Tiantian Lu
+Gregory Gordon Stewart
+1984/7/6 MALE BIG
+0.9 0.9 0.5 0.3
+William Andrew Bronsema
+Nancy Gorski
+1997/11/29 FEMALE LITTLE
+0.6 0.2 0.8 0.9
+
+Rebecca Graham
+1979/8/23 FEMALE BIG
+0.3 0.7 0.7 0.7
+Queenie Sin-Yan So
+Dimpy Gupta
+1978/3/14 FEMALE BIG
+0.9 1.0 0.5 0.6
+Kelly Christine Rehel
+Ingrid H Gokstorp
+1979/2/5 FEMALE BIG
+0.2 0.7 0.9 0.2
+
+Patty Hamilton
+1985/5/6 FEMALE BIG
+0.7 0.8 0.7 0.4
+Jana Marie Dagsvik
+Melanie Hammond
+1989/4/12 FEMALE LITTLE
+0.6 0.3 0.7 0.7
+
+Ko Han Chen
+1995/7/19 MALE LITTLE
+0.8 0.9 0.1 0.7
+Graham C Durrant
+Adam Hewgill
+1978/7/9 MALE BIG
+0.6 0.2 0.6 0.7
+Robert Miles Saunders
+Floria Ho
+1980/3/18 FEMALE BIG
+0.5 0.2 0.6 0.5
+
+Joyce Ho
+1988/9/26 FEMALE LITTLE
+0.5 0.9 0.9 0.1
+Aimee Pantchev
+Cheng-Jung Ho
+1993/8/15 MALE LITTLE
+0.1 0.4 0.7 0.9
+Kin Fai F Kwok
+Man Hon Frederick Chung
+1978/2/4 MALE BIG
+0.6 1.0 0.3 0.6
+Jason Martin Attard
+Shannon Hookings
+1997/8/15 FEMALE LITTLE
+0.7 0.9 1.0 0.8
+
+Corrie Hor Yee Kwan
+1996/1/19 FEMALE LITTLE
+0.5 0.5 0.9 1.0
+
+Mike Howard
+1989/7/20 MALE LITTLE
+0.6 0.1 1.0 0.2
+Wayde John William Johnson
+Pavel Huerta Uribe
+1994/4/29 MALE LITTLE
+0.7 0.5 0.5 0.1
+
+Jeffrey Hui
+1980/5/21 MALE BIG
+0.8 0.9 0.3 0.6
+Jonathan G Ford
+Wai Hung Ng
+1994/3/21 MALE LITTLE
+0.3 0.8 0.8 0.0
+
+Myung Hwan Ko
+1978/3/6 MALE BIG
+0.2 0.6 0.5 0.3
+Bahram Alipour
+Jason Hynes
+1997/3/29 MALE LITTLE
+0.9 0.4 0.9 0.4
+Christopher Carl Dietrich
+Chi Hyung Seo
+1993/11/23 FEMALE LITTLE
+0.6 0.1 0.6 0.3
+Sheila Marie Santos
+Colin Ian Meldrum
+1984/6/27 MALE BIG
+0.7 0.6 0.4 0.3
+Chia Nian Lim
+Gwen J Duby
+1979/3/20 FEMALE BIG
+0.1 0.2 0.3 0.5
+
+Frank J J Knezic
+1989/9/5 MALE LITTLE
+0.6 0.4 0.8 0.4
+Francis John McCarthy
+Jason J P Kraft
+1983/10/19 MALE BIG
+0.4 0.7 0.1 0.7
+Hua Liu
+Ian J Vander Schee
+1977/10/22 MALE BIG
+0.7 0.4 0.4 0.2
+Martin Maister
+Philip James Reginal Watson
+1979/10/22 MALE BIG
+0.3 0.4 0.5 0.5
+Stuart Andrew Doherty
+Laura Jane Bright
+1964/7/15 FEMALE BIG
+0.1 0.7 0.7 0.9
+Jenny Lee
+Melissa Jane Logtenberg
+1976/9/10 FEMALE BIG
+0.9 0.6 0.9 0.7
+Megan Campbell
+Stefan Janhunen
+1996/1/4 MALE LITTLE
+0.8 0.1 0.8 0.7
+David Chung
+Veronique Janin-Trudeau
+1984/2/20 FEMALE BIG
+0.2 0.0 0.0 0.2
+
+Sarah Janine McMullin
+1988/3/18 FEMALE LITTLE
+0.1 0.7 0.5 0.5
+
+Michelle Jean Gailitis
+1959/6/11 FEMALE BIG
+0.6 0.8 0.3 0.2
+
+Allison Jean Marjory Cochrane
+1977/11/11 FEMALE BIG
+0.9 0.5 0.3 0.6
+Susan Pamela Cartier
+Rebecca Jiajia Li
+1996/4/15 FEMALE LITTLE
+0.3 0.4 0.8 0.6
+
+Xinxin Jiang
+1975/6/18 FEMALE BIG
+0.9 0.8 0.5 0.3
+Kathryn Russill
+Jason Joel Yao
+1980/7/2 MALE BIG
+0.1 0.8 0.9 0.7
+Chris Krasowski
+Andrew John Faber
+1977/4/26 MALE BIG
+0.2 0.9 0.1 0.4
+Francis Tsiang
+Francis John McCarthy
+1983/3/23 MALE BIG
+0.9 0.5 1.0 0.8
+Frank J J Knezic
+Wayde John William Johnson
+1976/1/26 MALE BIG
+0.5 0.1 0.9 0.5
+Mike Howard
+Daniel Jonathon Trempe
+1997/1/13 MALE LITTLE
+0.7 0.7 0.1 0.4
+
+Stephen Joseph Harris
+1985/4/2 MALE BIG
+0.2 0.4 0.8 0.8
+Christopher David Heakes
+Fiona June Younger
+1993/6/29 FEMALE LITTLE
+0.1 0.9 0.3 0.5
+Priya Roberts
+Hansek Jung
+1984/8/26 MALE BIG
+0.5 0.6 0.9 0.7
+Geoffrey Wells
+Elise K Laende
+1976/9/25 FEMALE BIG
+0.6 0.0 0.4 0.6
+
+Mabel K Lai
+1988/1/5 FEMALE LITTLE
+0.3 0.7 0.2 0.8
+
+Heidi K. Rafman
+1989/4/2 FEMALE LITTLE
+0.9 0.2 0.1 0.9
+
+Cynthia K. Wong
+1982/10/11 FEMALE BIG
+0.7 0.0 0.1 0.7
+
+Mary Kang
+1988/1/14 FEMALE LITTLE
+1.0 0.6 0.8 0.7
+Krista Van Harten
+Prasanna Kannan
+1990/1/17 MALE LITTLE
+0.7 0.5 0.8 0.8
+Han Bob Yan
+Bina Kapadia
+1979/7/1 FEMALE BIG
+0.2 0.4 0.0 1.0
+
+Nihila Karunaratnam
+1984/6/12 FEMALE BIG
+0.0 0.0 0.6 0.1
+
+Maria Katherine Gmach
+1976/11/2 FEMALE BIG
+0.3 0.8 0.3 0.4
+
+Renee Katherine Lato
+1982/11/21 FEMALE BIG
+0.3 0.4 0.8 0.4
+
+Sonja Kathryn Fransen
+1983/8/10 FEMALE BIG
+1.0 1.0 0.2 0.8
+Janna D. Gillick
+Mary Kathryn Grant
+1990/5/11 FEMALE LITTLE
+0.9 0.8 0.8 0.8
+
+Deborah Kathy Leung
+1993/4/29 FEMALE LITTLE
+0.9 0.6 0.0 0.7
+
+Roger Keeble
+1990/10/15 MALE LITTLE
+0.3 0.8 0.6 0.1
+
+Ritesh Khanna
+1989/1/20 MALE LITTLE
+0.9 0.9 0.6 0.2
+Steven Burgess Kinnear
+Basel Khedr
+1991/4/13 MALE LITTLE
+0.8 0.8 0.9 0.6
+Salim Ahmed
+Amy Kit-Ying Shum
+1996/8/18 FEMALE LITTLE
+0.1 0.3 0.2 0.3
+Stephanie Louise Berry
+Tamanna Koovarjee
+1978/2/14 FEMALE BIG
+0.4 0.5 0.6 0.7
+
+Demetri Kopsas-Sephton
+1996/5/20 MALE LITTLE
+0.4 0.0 0.2 1.0
+
+Chris Krasowski
+1996/8/28 MALE LITTLE
+0.2 1.0 0.6 0.4
+Jason Joel Yao
+Michele Kristin Genesis
+1995/11/13 FEMALE LITTLE
+0.5 0.5 0.4 0.6
+
+Joanna Kwan Wai Wong
+1982/1/9 FEMALE BIG
+0.2 0.6 0.4 0.9
+
+Ivy Kwan-Yin Chan
+1983/2/16 FEMALE BIG
+0.2 0.4 0.9 0.1
+
+Adrian Kwan
+1997/11/4 MALE LITTLE
+0.4 0.4 0.3 0.1
+
+Patrick L Grover
+1993/10/29 MALE LITTLE
+0.1 0.1 0.3 0.2
+
+Andrew L Murray
+1985/1/20 MALE BIG
+0.1 0.1 0.8 0.1
+Leong-Pui Langston Lai
+Jennifer L Shimoda
+1988/7/26 FEMALE LITTLE
+0.1 0.2 0.8 0.9
+
+John La
+1957/10/15 MALE BIG
+0.4 0.5 0.1 0.7
+
+Melissa Lai
+1991/7/25 FEMALE LITTLE
+0.5 0.8 0.2 1.0
+Erica Lee
+Angela Lam
+1992/7/21 FEMALE LITTLE
+0.2 0.1 0.9 0.7
+
+Leong-Pui Langston Lai
+1991/6/15 MALE LITTLE
+0.7 0.1 1.0 0.1
+Andrew L Murray
+Alan Lau
+1982/7/17 MALE BIG
+0.4 0.6 0.4 0.2
+
+Peter Lawrence Thompson
+1992/3/17 MALE LITTLE
+0.9 0.5 0.5 0.6
+Alexander Frederick Murray
+Christina Lee Piggott
+1994/8/27 FEMALE LITTLE
+0.6 0.4 0.5 0.8
+
+Jenny Lee
+1993/11/24 FEMALE LITTLE
+0.2 0.3 0.3 0.6
+Laura Jane Bright
+Erica Lee
+1985/8/24 FEMALE BIG
+0.8 0.9 0.2 0.7
+Melissa Lai
+Sie-Young Lee
+1993/2/9 MALE LITTLE
+0.7 0.3 0.4 0.6
+
+Rhonda Leigh Kerr
+1993/7/25 FEMALE LITTLE
+0.5 0.7 0.4 0.8
+
+Michael Lerman
+1990/1/18 MALE LITTLE
+0.3 0.3 0.6 0.2
+
+Juan Li
+1997/2/11 FEMALE LITTLE
+0.3 0.6 0.1 0.1
+
+Shuo Li
+1990/10/22 MALE LITTLE
+0.4 0.1 0.5 0.7
+
+Adrian Lik-Yung Tang
+1984/2/13 MALE BIG
+0.6 0.6 0.8 0.4
+
+Hao Lin Pang
+1990/2/1 MALE LITTLE
+0.6 0.5 0.5 0.0
+
+Du Linh Banh
+1980/2/27 FEMALE BIG
+0.9 0.8 0.2 0.7
+Wai M Yee
+Qi Liu
+1993/9/13 FEMALE LITTLE
+1.0 0.1 0.0 0.3
+Samandeep Dhariwal
+Hua Liu
+1991/11/10 MALE LITTLE
+0.5 0.9 0.4 0.5
+Jason J P Kraft
+Eric Lo
+1997/3/23 MALE LITTLE
+0.8 0.3 0.9 0.5
+Ian David Gaudet
+John Lorne Charbonneau
+1949/9/29 MALE BIG
+0.3 0.1 0.6 0.7
+
+Meng Lou
+1977/6/2 MALE BIG
+0.3 0.5 0.9 0.8
+
+Stephanie Louise Berry
+1984/7/3 FEMALE BIG
+0.5 0.9 0.4 0.8
+Amy Kit-Ying Shum
+Karen Louise Haufschild
+1982/3/5 FEMALE BIG
+0.3 0.8 0.3 0.1
+
+Tiantian Lu
+1985/8/2 FEMALE BIG
+1.0 0.6 0.5 0.7
+Prabhdeep Gill
+Kimberly Luella Tuck
+1985/1/25 FEMALE BIG
+1.0 1.0 0.9 0.5
+Candace Allison Cooper
+Alexander Lui Wong
+1977/6/1 MALE BIG
+0.5 0.4 0.4 0.8
+
+Lisa Ly
+1983/3/3 FEMALE BIG
+0.4 0.4 0.9 0.3
+
+Kara Lynn Clark
+1979/3/2 FEMALE BIG
+0.3 0.4 0.9 0.6
+
+Christie Lynn Lambie
+1990/4/10 FEMALE LITTLE
+0.6 0.0 0.2 0.6
+
+Cherie Lynn Marie Wardell
+1976/10/30 FEMALE BIG
+0.8 0.8 0.5 0.3
+
+Nicole Lynn Pearson
+1990/7/9 FEMALE LITTLE
+0.1 0.7 0.2 0.7
+
+Jennifer Lynn Stevenson
+1988/3/2 FEMALE LITTLE
+0.2 1.0 0.3 0.6
+Jennifer Man Yun Liu
+Melanie M Blass
+1989/4/9 FEMALE LITTLE
+0.8 0.7 0.9 0.5
+
+Paula M Dosen
+1978/3/6 FEMALE BIG
+0.4 0.2 0.2 0.8
+
+Nicole M Hertel
+1992/10/12 FEMALE LITTLE
+0.8 0.7 0.2 0.5
+
+Prashant M Jani
+1991/9/5 MALE LITTLE
+0.3 0.0 0.6 0.1
+
+David M Kwiatkowski
+1979/4/21 MALE BIG
+0.7 0.4 0.8 0.3
+
+Wai M Yee
+1997/10/22 FEMALE LITTLE
+0.7 0.6 0.0 1.0
+Du Linh Banh
+Colleen M. Breckenridge
+1990/11/6 FEMALE LITTLE
+0.1 0.3 0.1 0.8
+
+Helena M.L. Dolan
+1995/11/29 FEMALE LITTLE
+0.8 0.6 0.4 0.2
+
+Martin Maister
+1997/8/13 MALE LITTLE
+0.9 0.7 0.1 0.5
+Ian J Vander Schee
+Donnette Malcolm
+1989/5/17 FEMALE LITTLE
+0.1 0.6 0.6 0.6
+Rebecca Anne De Boer
+Wai Man Frances Cheung
+1962/4/10 FEMALE BIG
+0.2 0.2 0.1 0.5
+
+Nancy Man Wai Hung
+1995/10/30 FEMALE LITTLE
+0.8 0.4 0.1 0.7
+
+Ka Man Wong
+1978/2/5 MALE BIG
+0.8 0.2 0.9 0.3
+
+Jennifer Man Yun Liu
+1982/3/23 FEMALE BIG
+0.2 0.9 0.8 0.6
+Jennifer Lynn Stevenson
+Paul Mandt Hoepfner-Homme
+1976/2/4 MALE BIG
+0.4 0.7 0.1 0.2
+
+Nick Manos
+1971/4/26 MALE BIG
+0.6 0.6 1.0 0.2
+
+Alison Maria Chung-Yan
+1984/1/21 FEMALE BIG
+0.1 0.6 0.7 0.7
+
+Diane Marie A. Lord-Cotton
+1982/4/15 FEMALE BIG
+0.7 0.1 0.6 0.8
+
+Joanne Marie Bailey
+1994/9/24 FEMALE LITTLE
+0.6 0.4 0.7 0.9
+
+Jana Marie Dagsvik
+1997/2/5 FEMALE LITTLE
+0.4 0.6 0.6 0.2
+Patty Hamilton
+Nicole Marie Mohammed
+1980/2/25 FEMALE BIG
+0.3 1.0 0.6 0.5
+Christine Wai Yee Wong
+Sheila Marie Santos
+1983/9/28 FEMALE BIG
+0.7 0.0 1.0 0.5
+Chi Hyung Seo
+Althea Marie Taliotis
+1985/11/4 FEMALE BIG
+0.9 0.4 0.6 0.4
+
+Shannon Marie Testart
+1977/2/25 FEMALE BIG
+0.5 0.9 0.1 0.5
+
+Jason Martin Attard
+1995/11/17 MALE LITTLE
+0.5 1.0 0.3 0.5
+Man Hon Frederick Chung
+Christopher Marton
+1996/9/8 MALE LITTLE
+0.9 0.5 0.5 0.7
+King Chi Derek Wu
+James Mervyn Ford
+1979/4/3 MALE BIG
+0.1 0.5 0.6 0.9
+
+James Metropolit
+1981/3/6 MALE BIG
+0.5 0.6 0.7 0.1
+
+Terry Michael Amadio
+1993/6/19 MALE LITTLE
+0.4 0.8 0.6 0.2
+
+Paul Michael Barrett
+1993/4/18 MALE LITTLE
+0.4 0.2 0.6 0.1
+
+Robert Michael Cerullo
+1976/10/23 MALE BIG
+0.7 0.9 0.0 0.3
+
+Jodi Michelle Wendland
+1985/10/18 FEMALE BIG
+0.5 0.2 0.1 0.3
+
+Arlene Michelle Zuidema
+1960/4/21 FEMALE BIG
+0.7 0.2 0.3 0.1
+
+Robert Miles Saunders
+1991/1/18 MALE LITTLE
+0.5 0.3 0.7 0.8
+Adam Hewgill
+Mohammad Minhaj Khan
+1978/1/21 MALE BIG
+0.0 0.1 0.8 0.6
+
+Khurshid Mirza
+1976/2/2 FEMALE BIG
+0.4 0.5 0.2 0.9
+
+James Nazareth
+1995/5/29 MALE LITTLE
+0.2 0.2 0.2 0.4
+
+Danny Ng
+1991/2/3 MALE LITTLE
+0.2 0.2 0.3 0.5
+
+Por Ngai
+1990/11/7 MALE LITTLE
+0.6 0.0 0.6 0.6
+
+Trang Nguyen
+1988/10/27 FEMALE LITTLE
+0.8 0.2 0.2 0.8
+
+Quynh-Mai Nguyen
+1985/5/16 FEMALE BIG
+0.4 0.4 0.6 0.7
+
+Chia Nian Lim
+1996/8/12 MALE LITTLE
+0.7 0.8 0.4 0.4
+Colin Ian Meldrum
+Stacey-Ann Nicola Johnson
+1988/2/27 FEMALE LITTLE
+0.3 0.5 0.7 0.9
+
+Hoi Ning Irene Tao
+1991/7/10 FEMALE LITTLE
+0.9 0.9 0.2 0.8
+Nhat-Phan Patricia Tran
+Zanoon Nissar
+1947/10/11 FEMALE BIG
+0.9 0.1 0.6 0.0
+
+Elaine Oei
+1978/9/27 FEMALE BIG
+0.6 0.8 0.1 0.2
+
+Allison Ogle
+1976/4/17 FEMALE BIG
+0.4 0.6 0.4 0.3
+
+Sarah Oi-Ying Chan
+1992/10/6 FEMALE LITTLE
+0.5 0.2 0.9 0.9
+
+Iris On Yung Chick
+1989/5/14 FEMALE LITTLE
+0.9 0.4 0.7 0.0
+
+Susan Pamela Cartier
+1994/9/25 FEMALE LITTLE
+0.2 0.2 0.1 0.3
+Allison Jean Marjory Cochrane
+Aimee Pantchev
+1957/11/23 FEMALE BIG
+0.3 0.7 1.0 0.8
+Joyce Ho
+Chaten Patel
+1988/11/8 MALE LITTLE
+0.6 0.8 0.5 0.6
+Donald Drew Langelo
+Tamara Paton
+1982/1/19 FEMALE BIG
+1.0 0.8 0.3 0.8
+Maria Eugenia Wilhelm
+Nhat-Phan Patricia Tran
+1984/11/15 FEMALE BIG
+1.0 0.7 0.2 0.4
+Hoi Ning Irene Tao
+Charles Patrick St-Onge
+1962/11/28 MALE BIG
+0.8 0.9 0.2 0.8
+
+Simon Paul Ditner
+1993/8/16 MALE LITTLE
+0.4 0.5 0.2 0.6
+
+Jerome Pierre Bastien
+1953/5/11 MALE BIG
+0.7 1.0 0.8 0.3
+
+Bardia Pishdad
+1996/8/10 MALE LITTLE
+0.0 0.3 0.5 0.3
+
+Anita Po Lam Koo
+1991/4/26 FEMALE LITTLE
+0.2 0.8 0.6 0.4
+
+Roman Podolny
+1983/1/5 MALE BIG
+0.2 0.2 0.4 0.6
+
+Bogdan Przemyslaw Chmielewski
+1961/3/4 MALE BIG
+0.7 0.6 0.3 0.8
+
+Khai Quoc Ngo
+1981/10/30 MALE BIG
+0.1 0.8 0.6 0.2
+
+Alana R Ali
+1990/5/25 FEMALE LITTLE
+0.2 1.0 0.6 0.4
+
+David R Oster
+1989/10/18 MALE LITTLE
+0.8 0.3 0.1 0.1
+
+Matthew R Schnarr
+1988/3/11 MALE LITTLE
+0.4 0.2 0.3 0.3
+
+Marcel Ralph Bernard Pretty
+1971/3/10 MALE BIG
+0.6 0.5 0.8 0.1
+
+Mamoon Rashid
+1997/10/1 MALE LITTLE
+0.1 0.9 0.7 0.1
+
+Mansi Rastogi
+1993/6/25 FEMALE LITTLE
+0.2 0.9 0.8 0.6
+Kris Dawnlyn Boundy
+John Raymond Pongo
+1949/2/18 MALE BIG
+0.0 0.3 0.8 1.0
+
+Sakina Raza
+1958/8/29 FEMALE BIG
+0.9 0.5 0.6 0.9
+Esther Ella Small
+Corey Reicker
+1984/2/13 MALE BIG
+0.2 0.9 0.5 0.0
+
+Kevin Reid
+1997/11/4 MALE LITTLE
+0.0 0.1 0.6 0.6
+
+Eddy Rempel
+1997/4/14 MALE LITTLE
+0.2 0.5 0.4 0.6
+
+Kathryn Renee Vanderkuip
+1989/3/7 FEMALE LITTLE
+0.3 0.3 0.0 0.3
+
+Ian Richard Woods
+1972/1/26 MALE BIG
+0.4 0.6 0.1 0.9
+
+Laura Riggs
+1993/3/17 FEMALE LITTLE
+0.4 0.2 0.1 0.0
+
+Abbas Rizvi
+1989/9/21 MALE LITTLE
+0.9 0.7 0.1 0.5
+
+Mario Robert Fonti
+1989/2/3 MALE LITTLE
+0.2 0.3 0.8 0.6
+
+David Robert Hansen
+1992/4/12 MALE LITTLE
+0.4 0.8 0.3 0.5
+
+Jeffrey Robert Paulitzki
+1979/6/26 MALE BIG
+0.7 0.5 0.1 0.8
+
+Priya Roberts
+1979/11/14 FEMALE BIG
+0.1 1.0 0.6 0.7
+Fiona June Younger
+Derek Rolf Joseph Gokstorp
+1990/5/18 MALE LITTLE
+0.4 0.4 0.3 0.4
+
+Kathryn Russill
+1990/5/12 FEMALE LITTLE
+0.9 0.6 0.8 0.3
+Xinxin Jiang
+Laura Ruth Hirtle
+1995/1/1 FEMALE LITTLE
+0.7 0.4 0.7 0.9
+
+Trevor Ryan Smith
+1995/1/1 MALE LITTLE
+0.4 1.0 0.1 0.7
+Ankur Aneja
+Suzanna S.J. Banh
+1976/4/27 FEMALE BIG
+0.8 0.7 0.2 0.5
+Hazel Wong
+Ratna Sabharwal
+1997/4/21 FEMALE LITTLE
+0.6 0.2 0.7 1.0
+
+Bryan Sacks
+1988/8/11 MALE LITTLE
+0.4 0.2 0.1 0.5
+
+Shahzad Salim
+1977/4/27 MALE BIG
+0.9 0.2 0.2 0.7
+
+Ravina Samra
+1996/6/8 FEMALE LITTLE
+0.4 0.4 0.1 0.8
+Florence Wing Han Ng
+Sassan Sanei
+1981/4/17 MALE BIG
+0.7 0.4 0.3 0.5
+
+Kim Sarah Jones
+1997/6/22 FEMALE LITTLE
+0.3 0.3 0.9 0.4
+
+Dominika Sarna
+1991/2/20 FEMALE LITTLE
+0.9 0.0 0.8 0.3
+
+Michael Saxton
+1982/5/21 MALE BIG
+0.2 0.3 0.2 0.7
+
+John Sey
+1989/1/13 MALE LITTLE
+0.6 0.1 0.5 0.6
+
+Sheikh Shakib Rahman
+1977/9/20 MALE BIG
+0.8 0.3 0.9 0.4
+
+Blanka Sharma
+1988/5/27 FEMALE LITTLE
+0.2 0.1 0.9 0.9
+Kathy Thuy Nguyen
+Dan Shen
+1992/4/3 FEMALE LITTLE
+0.3 0.1 0.9 0.9
+
+Bronson Shu-Wing Leung
+1990/6/4 MALE LITTLE
+0.6 0.0 0.3 0.4
+
+Jennifer Simone
+1989/4/6 FEMALE LITTLE
+0.3 1.0 0.4 0.8
+
+Queenie Sin-Yan So
+1989/10/29 FEMALE LITTLE
+0.4 0.6 0.3 0.9
+Rebecca Graham
+Timur Skeini
+1965/9/21 MALE BIG
+0.4 0.2 0.8 0.5
+
+Marek Skrzek
+1963/7/21 MALE BIG
+0.4 0.9 0.3 0.1
+
+Zhe Sun
+1990/4/25 FEMALE LITTLE
+0.9 0.2 0.1 0.9
+
+Shan Syed
+1995/9/23 MALE LITTLE
+0.6 0.2 0.9 0.9
+Justin Dorland
+Michelle Sylvie Boyle
+1991/1/25 FEMALE LITTLE
+1.0 0.8 1.0 0.6
+
+Douglas Szeto
+1979/1/19 MALE BIG
+0.4 0.5 0.4 1.0
+
+Craig T Robinson
+1992/10/28 MALE LITTLE
+0.1 0.3 0.0 0.0
+
+Frank Tai
+1993/6/6 MALE LITTLE
+0.9 0.3 0.5 0.2
+
+Zhuo Tang Ma
+1992/8/23 FEMALE LITTLE
+0.8 0.1 0.9 0.2
+Stephanie Carolin Heinze
+Ting Tang
+1994/9/16 MALE LITTLE
+0.2 0.4 0.7 0.0
+
+Nicole Theresa Gilbert
+1975/3/10 FEMALE BIG
+0.5 0.1 0.7 0.4
+
+Loan Thi Thanh(maria Huynh
+1985/7/8 FEMALE BIG
+0.4 0.2 0.3 0.2
+
+Jonathan Thomas Jilesen
+1979/8/13 MALE BIG
+0.6 1.0 0.5 0.6
+
+Kathy Thuy Nguyen
+1979/3/17 FEMALE BIG
+0.2 0.5 1.0 0.8
+Blanka Sharma
+Yun Tian
+1991/10/15 MALE LITTLE
+0.5 0.5 0.6 0.2
+
+Minh To Luu
+1989/11/19 FEMALE LITTLE
+0.1 0.3 0.1 0.9
+
+Yen Tov
+1984/3/25 FEMALE BIG
+0.1 0.0 0.7 0.5
+
+CU Truong
+1984/6/17 MALE BIG
+0.6 0.2 0.1 0.2
+
+Bich-Hai Truong
+1966/3/4 MALE BIG
+0.2 0.4 0.5 0.4
+
+Jesua Tsai
+1977/11/14 FEMALE BIG
+0.1 0.1 0.8 0.5
+
+Michael Tsang
+1981/2/20 MALE BIG
+0.6 0.9 0.5 0.9
+
+Francis Tsiang
+1995/4/24 MALE LITTLE
+0.1 0.9 0.4 0.5
+Andrew John Faber
+Joe Tsz Yee Cheng
+1985/1/29 FEMALE BIG
+0.1 0.4 1.0 0.3
+
+Krista Van Harten
+1983/5/9 FEMALE BIG
+0.7 0.7 0.8 0.4
+Mary Kang
+George Vandenberg
+1980/2/23 MALE BIG
+0.1 0.9 0.2 0.0
+
+Alan W M Dai
+1993/5/10 MALE LITTLE
+0.0 0.4 0.9 0.3
+
+Winnie Wai Yee Kwok
+1991/10/4 FEMALE LITTLE
+1.0 0.2 0.4 0.4
+
+Christine Wai Yee Wong
+1988/4/13 FEMALE LITTLE
+0.3 0.5 0.1 0.3
+Nicole Marie Mohammed
+Zahra Walli
+1985/3/8 FEMALE BIG
+0.2 0.3 0.8 0.4
+
+Joseph Warwick V Hewitt
+1990/9/18 MALE LITTLE
+0.9 0.8 0.2 0.3
+Salvatore Curcio
+Geoffrey Wells
+1993/3/5 MALE LITTLE
+0.6 0.6 0.5 0.5
+Hansek Jung
+Nisha Wellstein
+1985/3/12 FEMALE BIG
+0.0 0.7 0.3 0.5
+
+Wendy Wenjing Wang
+1981/8/22 FEMALE BIG
+0.8 0.5 0.0 0.0
+
+Christine Wessman
+1979/2/1 FEMALE BIG
+0.0 0.6 0.1 0.7
+
+Kent Westlund
+1994/1/27 MALE LITTLE
+0.8 0.8 0.2 0.7
+Scott Calder
+Robert William Girard
+1948/7/17 MALE BIG
+0.3 0.7 0.6 0.8
+
+Kenneth William Moore
+1982/1/26 MALE BIG
+1.0 0.9 0.2 0.1
+
+John William Schmidt
+1989/4/29 MALE LITTLE
+0.5 0.1 0.0 0.4
+
+James William Spath
+1997/7/1 MALE LITTLE
+0.0 0.3 0.2 0.7
+
+Florence Wing Han Ng
+1977/6/1 FEMALE BIG
+0.5 0.7 0.1 0.8
+Ravina Samra
+Anna Wing Sze Au Yeung
+1997/10/7 FEMALE LITTLE
+0.5 0.6 0.8 0.7
+
+Vikki Wing-Ki Chow
+1992/6/14 FEMALE LITTLE
+0.0 1.0 0.3 0.7
+
+Martin Wittmann
+1991/8/30 MALE LITTLE
+0.2 0.1 0.2 0.6
+
+Margaret Wojtarowicz
+1981/8/23 FEMALE BIG
+0.7 0.2 0.8 0.3
+
+Hazel Wong
+1991/4/11 FEMALE LITTLE
+0.9 0.9 0.1 0.7
+Suzanna S.J. Banh
+Ada Wong
+1978/3/11 FEMALE BIG
+0.5 0.8 0.9 0.7
+Hong Dinh
+Vincent Wong
+1975/7/13 MALE BIG
+0.3 0.5 0.9 0.4
+
+Andrew Wong
+1953/1/11 MALE BIG
+0.2 0.5 0.9 0.4
+
+Jixin Wu
+1978/1/23 MALE BIG
+0.9 0.8 0.5 0.2
+
+Si-Min Xiong
+1970/10/23 FEMALE BIG
+0.0 0.3 1.0 0.6
+
+Tsun Yang Junius Mok
+1981/8/26 MALE BIG
+0.8 0.7 0.8 0.2
+
+Li Yang Lu
+1983/6/22 MALE BIG
+0.2 0.8 0.1 0.8
+
+Emily Yang Zhao
+1997/5/1 FEMALE LITTLE
+0.2 0.7 0.7 0.5
+
+Bing Yang
+1982/10/23 FEMALE BIG
+0.6 0.2 0.4 0.9
+
+Wayne Yang
+1992/3/1 MALE LITTLE
+0.2 0.8 0.5 0.8
+Edwin Daniel Hayhoe
+Ned Yao-Te Huang
+1977/2/17 MALE BIG
+0.3 0.5 0.1 0.5
+
+Suk Yee Pat Chan
+1985/9/18 FEMALE BIG
+0.5 0.9 0.2 0.0
+
+Angela Yet Wah Ching
+1988/10/5 FEMALE LITTLE
+0.7 0.6 0.6 0.6
+
+John Yeum
+1993/2/20 MALE LITTLE
+1.0 0.4 0.6 0.7
+Ciprian Badea
+Jeffrey Yeung
+1980/11/7 MALE BIG
+0.0 0.3 0.9 0.3
+
+Bo Yin Lo
+1979/7/19 FEMALE BIG
+0.1 0.2 0.4 0.6
+
+Hua Ying Yang
+1993/5/18 FEMALE LITTLE
+0.1 1.0 0.5 0.9
+Priti Balchandani
+Elaine Yinn Chyi Ooi
+1993/6/2 FEMALE LITTLE
+0.5 0.4 0.9 0.9
+
+Ken Yu-Jen Su
+1982/8/22 MALE BIG
+0.0 0.7 0.5 0.9
+
+Jenny Yue-Ching Yeung
+1978/8/3 FEMALE BIG
+0.3 0.2 0.6 0.3
+
+Vincent Yung
+1978/11/22 MALE BIG
+0.3 0.0 0.2 0.8
+
+Carolyn Yvonne Greaves
+1988/3/14 FEMALE LITTLE
+0.3 0.7 0.7 1.0
+
+Meng Zhang
+1983/8/23 FEMALE BIG
+0.9 0.9 0.5 0.9
+Marina Ashley Terdik
+Yunqi Zhang
+1997/11/4 FEMALE LITTLE
+0.2 0.1 0.5 0.7
+Barbara E Allen
+Yu Zhou
+1991/2/16 FEMALE LITTLE
+0.1 0.8 0.6 0.1
+
+Azadeh Zohrehbakhsh-Dezfool
+1995/4/20 FEMALE LITTLE
+0.1 0.5 0.3 0.0
+
+Nadin Zulfikar Merali
+1997/1/11 MALE LITTLE
+0.3 0.3 0.3 0.5
+
+Tori-Lea de Bokx
+1984/11/20 FEMALE BIG
+0.1 0.8 0.0 0.5
+

@@ -1,0 +1,37 @@
+
+Debugging
+-1 0 12 12
+38
+becker.robots.Thing 8 3
+becker.robots.Thing 7 3
+becker.robots.Thing 6 3
+becker.robots.Thing 5 3
+becker.robots.Thing 5 3
+becker.robots.Thing 5 4
+becker.robots.Thing 5 5
+becker.robots.Thing 5 6
+becker.robots.Thing 5 6
+becker.robots.Thing 4 6
+becker.robots.Thing 3 6
+becker.robots.Thing 2 6
+becker.robots.Thing 2 6
+becker.robots.Thing 2 7
+becker.robots.Thing 2 8
+becker.robots.Thing 2 9
+
+becker.robots.Thing 8 3
+becker.robots.Thing 7 3
+becker.robots.Thing 6 3
+becker.robots.Thing 5 3
+becker.robots.Thing 5 3
+becker.robots.Thing 5 4
+becker.robots.Thing 5 5
+becker.robots.Thing 5 6
+becker.robots.Thing 5 6
+becker.robots.Thing 4 6
+becker.robots.Thing 3 6
+becker.robots.Thing 2 6
+becker.robots.Thing 2 6
+becker.robots.Thing 2 7
+becker.robots.Thing 2 8
+becker.robots.Thing 2 9

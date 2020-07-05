@@ -1,0 +1,40 @@
+<?xml?>
+<project>
+	<settings>
+		<label>alarmClock</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK robotsUse</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>AlarmClockMain</run>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Alarm.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>AlarmClock.java</path>
+				<source>true</source>
+			</fileitem>
+			<fileitem>
+				<path>AlarmClockMain.java</path>
+				<source>true</source>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

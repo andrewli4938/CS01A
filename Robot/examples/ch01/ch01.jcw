@@ -1,0 +1,28 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch01</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch01.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>roadblock\roadblock.jcp</path>
+		</project>
+		<project>
+			<path>framePlay\framePlay.jcp</path>
+		</project>
+		<project>
+			<path>compileErrors\CompileErrors.jcp</path>
+		</project>
+		<project>
+			<path>deliverParcel\deliverParcel.jcp</path>
+		</project>
+		<project>
+			<path>emptyFrame\emptyFrame.jcp</path>
+		</project>
+	</projects>
+</workspace>

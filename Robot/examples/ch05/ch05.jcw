@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch05</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch05.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>squareMover\squareMover.jcp</path>
+		</project>
+		<project>
+			<path>lineArt\lineArt.jcp</path>
+		</project>
+	</projects>
+</workspace>

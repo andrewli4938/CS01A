@@ -1,0 +1,36 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>deliverParcel</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>roadblock</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>framePlay</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>CompileErrors</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>deliverParcel</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>emptyFrame</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>deliverParcel\DeliverParcel.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

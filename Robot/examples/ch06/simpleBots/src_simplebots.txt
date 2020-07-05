@@ -1,0 +1,9 @@
+D:\Robots\examples\ch06\simpleBots\Constants.java
+D:\Robots\examples\ch06\simpleBots\Main.java
+D:\Robots\examples\ch06\simpleBots\Paintable.java
+D:\Robots\examples\ch06\simpleBots\SimpleBot.java
+D:\Robots\examples\ch06\simpleBots\SimpleCity.java
+D:\Robots\examples\ch06\simpleBots\SimpleCityFrame.java
+D:\Robots\examples\ch06\simpleBots\SimpleIntersection.java
+D:\Robots\examples\ch06\simpleBots\TestHarness.java
+D:\Robots\examples\ch06\simpleBots\View.java

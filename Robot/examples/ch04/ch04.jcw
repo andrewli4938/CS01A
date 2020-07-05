@@ -1,0 +1,22 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch04</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch04.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>rectanglePlanter\rectanglePlanter.jcp</path>
+		</project>
+		<project>
+			<path>stickFigure\stickFigure.jcp</path>
+		</project>
+		<project>
+			<path>harvest\harvest.jcp</path>
+		</project>
+	</projects>
+</workspace>

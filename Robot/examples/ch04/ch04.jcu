@@ -1,0 +1,34 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>stickFigure</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>rectanglePlanter</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>stickFigure</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>harvest</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>stickFigure\Main.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>stickFigure\StickFigure.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>

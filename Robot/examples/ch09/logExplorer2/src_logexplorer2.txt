@@ -1,0 +1,7 @@
+D:\Robots\examples\ch09\logExplorer2\CmdInterpreter.java
+D:\Robots\examples\ch09\logExplorer2\GraphicalUI.java
+D:\Robots\examples\ch09\logExplorer2\LogExplorer.java
+D:\Robots\examples\ch09\logExplorer2\LogExplorerView.java
+D:\Robots\examples\ch09\logExplorer2\Main.java
+D:\Robots\examples\ch09\logExplorer2\Prompt.java
+D:\Robots\examples\ch09\logExplorer2\ServerRecord.java

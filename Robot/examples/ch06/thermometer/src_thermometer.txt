@@ -1,0 +1,2 @@
+D:\Robots\examples\variables\thermometer\Main.java
+D:\Robots\examples\variables\thermometer\Thermometer.java

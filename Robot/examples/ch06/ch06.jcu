@@ -1,0 +1,24 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>counter</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>counter</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>simpleBots</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>thermometer</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>limitedBot</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+</workspace_user>

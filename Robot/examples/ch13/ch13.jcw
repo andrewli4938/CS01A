@@ -1,0 +1,37 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch13</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch13.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>componentDemo\componentDemo.jcp</path>
+		</project>
+		<project>
+			<path>nimMultiView\nimMultiView.jcp</path>
+		</project>
+		<project>
+			<path>fonts\fonts.jcp</path>
+		</project>
+		<project>
+			<path>nimInfrastructure\nimInfrastructure.jcp</path>
+		</project>
+		<project>
+			<path>nimOneView\nimOneView.jcp</path>
+		</project>
+		<project>
+			<path>nimInnerClass\nimInnerClass.jcp</path>
+		</project>
+		<project>
+			<path>nimIntegrated\nimIntegrated.jcp</path>
+		</project>
+		<project>
+			<path>usingJList\usingJList.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,21 @@
+#!/bin/bash
+
+echo "The following are not expected to compile:"
+echo "  ch09/logExplorer2/CmdInterpreter.java (students to complete classes)"
+echo "  ch09/logExplorer2/GraphicalUI.java (students to complete classes)"
+echo "  ch09/promptUser/ListFilesBySize.java (uses library)"
+echo ""
+
+for dir in ch09/*
+	do
+	if test -d $dir && [[$dir != "*/logExplorer2/*"]];
+	then
+		(	cd $dir;
+			pwd;
+			rm -f *.class;
+			javac -classpath d:/Robots/build1.5/dist/becker.jar \
+						-sourcepath d:/Robots/examples/ch09/personalLib/   *.java
+		)
+		fi
+	done
+	

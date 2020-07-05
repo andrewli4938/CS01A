@@ -1,0 +1,5 @@
+D:\Robots\examples\ch13\nimOneView\Nim.java
+D:\Robots\examples\ch13\nimOneView\NimModel.java
+D:\Robots\examples\ch13\nimOneView\NimView.java
+D:\Robots\examples\ch13\nimOneView\Player.java
+D:\Robots\examples\ch13\nimOneView\RemovesController.java

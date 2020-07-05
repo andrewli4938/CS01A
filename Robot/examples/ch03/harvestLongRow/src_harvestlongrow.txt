@@ -1,0 +1,3 @@
+D:\JKarelBook\examples\methods\harvestLongRow\LongRowHarvester.java
+D:\JKarelBook\examples\methods\harvestLongRow\Harvester.java
+D:\JKarelBook\examples\methods\harvestLongRow\HarvestTask.java

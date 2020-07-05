@@ -1,0 +1,34 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch02</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch02.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>extendIcon\extendIcon.jcp</path>
+		</project>
+		<project>
+			<path>drawing\drawing.jcp</path>
+		</project>
+		<project>
+			<path>stickFigure\stickFigure.jcp</path>
+		</project>
+		<project>
+			<path>extendThing\extendThing.jcp</path>
+		</project>
+		<project>
+			<path>override\override.jcp</path>
+		</project>
+		<project>
+			<path>experiment\experiment.jcp</path>
+		</project>
+		<project>
+			<path>switchLights\switchLights.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,7 @@
+66.249.71.9 crawl-66-249-71-9.googlebot.com 2005/8/19@1:19:12 GET /~bwbecker 301 330
+68.142.249.193 lj2183.inktomisearch.com 2005/8/19@1:23:58 GET /~bwbecker/papers/SIGCSE2003?M=A 301 352
+68.142.249.193 lj2183.inktomisearch.com 2005/8/19@1:23:59 GET /~bwbecker/papers/SIGCSE2003/?M=A 200 1000
+130.179.36.30 ucuser20.cc.umanitoba.ca 2005/8/19@1:32:34 GET /~bwbecker 301 342
+130.179.36.30 ucuser20.cc.umanitoba.ca 2005/8/19@1:32:34 GET /~bwbecker/ 200 3709
+130.179.36.30 ucuser20.cc.umanitoba.ca 2005/8/19@1:32:34 GET /~bwbecker/ByronSmall.jpg 200 9405
+130.179.36.30 ucuser20.cc.umanitoba.ca 2005/8/19@1:32:39 GET /~bwbecker/Map-to-my-office.gif 200 14322

@@ -1,0 +1,31 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch07</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch07.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>formatNumbers\formatNumbers.jcp</path>
+		</project>
+		<project>
+			<path>enums\enums.jcp</path>
+		</project>
+		<project>
+			<path>countVowels\countVowels.jcp</path>
+		</project>
+		<project>
+			<path>stringDemo\stringDemo.jcp</path>
+		</project>
+		<project>
+			<path>keyBot\keyBot.jcp</path>
+		</project>
+		<project>
+			<path>gasPump\gasPump.jcp</path>
+		</project>
+	</projects>
+</workspace>

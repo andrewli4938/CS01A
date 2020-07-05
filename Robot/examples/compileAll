@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo "The following are not expected to compile and are skipped:"
+echo "  ch09/logExplorer2/CmdInterpreter.java (students to complete classes)"
+echo "  ch09/logExplorer2/GraphicalUI.java    (students to complete classes)"
+echo "  ch09/personalLib/                     (library used by other programs)"
+echo "The following may cause a warning to be printed by the Java compiler."
+echo "Fixing it is beyond the scope of the example and textbook."
+echo "  ch12/comparable/"
+echo "  ch12/comparators/"
+echo "  ch12/invoice/"
+echo ""
+
+for dir in ch*/*
+	do
+	if  [ -d $dir ] && [ $dir != "ch09/logExplorer2" ] && [ $dir != "ch09/personalLib" ];
+	then
+		(	cd $dir;
+			pwd;
+			rm -f *.class;
+			javac -classpath d:/Robots/build1.5/dist/becker.jar \
+						-sourcepath d:/Robots/examples/ch09/personalLib/   *.java
+		)
+		fi
+	done
+	

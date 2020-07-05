@@ -1,0 +1,24 @@
+Kenneth A Parsons
+1997/8/7 MALE LITTLE
+0.9 0.3 0.6 0.5
+
+Beth A Reyburn
+1993/8/27 FEMALE LITTLE
+0.3 0.0 0.1 0.8
+
+Kathleen A Waller
+1979/5/4 FEMALE BIG
+0.7 0.4 0.5 0.5
+
+Roydyn A. Clayton
+1993/5/25 MALE LITTLE
+0.2 0.5 0.0 0.5
+
+Christopher Aaron Fairles
+1981/2/2 MALE BIG
+0.5 0.2 0.8 0.3
+
+Tunazzina Abedin
+1989/2/10 FEMALE LITTLE
+0.0 0.9 0.1 0.5
+

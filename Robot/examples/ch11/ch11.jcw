@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch11</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch11.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>email\email.jcp</path>
+		</project>
+	</projects>
+</workspace>

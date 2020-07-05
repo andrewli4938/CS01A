@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>appendices</label>
+	</settings>
+	<users>
+		<user>
+			<path>appendices.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>charCodes\charCodes.jcp</path>
+		</project>
+	</projects>
+</workspace>

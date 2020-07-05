@@ -1,0 +1,16 @@
+Byron Weber Becker
+122 Nomad Street
+Waterloo, ON  N2L 3G1
+GoodsLineItem
+3 1750.00 Desktop computers
+GoodsLineItem
+1 750.00 Premium office suite
+ServicesLineItem
+3 5.95 Computer service contracts
+12
+ConsultingLineItem
+1 75.00 Consulting re: printer installation
+0.75
+ConsultingLineItem
+1 75.00 Consulting re: local area network wiring
+5.00

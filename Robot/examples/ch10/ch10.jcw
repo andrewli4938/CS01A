@@ -1,0 +1,37 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch10</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch10.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>librarySort\librarySort.jcp</path>
+		</project>
+		<project>
+			<path>animation\animation.jcp</path>
+		</project>
+		<project>
+			<path>pascal\pascal.jcp</path>
+		</project>
+		<project>
+			<path>income\income.jcp</path>
+		</project>
+		<project>
+			<path>countCoins\countCoins.jcp</path>
+		</project>
+		<project>
+			<path>growArrayTest\growArrayTest.jcp</path>
+		</project>
+		<project>
+			<path>bbbs\bbbs.jcp</path>
+		</project>
+		<project>
+			<path>bbbsPartiallyFilled\bbbsPartiallyFilled.jcp</path>
+		</project>
+	</projects>
+</workspace>

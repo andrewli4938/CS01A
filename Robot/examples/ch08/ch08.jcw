@@ -1,0 +1,34 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>ch08</label>
+	</settings>
+	<users>
+		<user>
+			<path>ch08.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>alarmSound\alarmSound.jcp</path>
+		</project>
+		<project>
+			<path>collabPerson\collaborativePerson.jcp</path>
+		</project>
+		<project>
+			<path>collections\collections.jcp</path>
+		</project>
+		<project>
+			<path>alarmClock\alarmClock.jcp</path>
+		</project>
+		<project>
+			<path>personOneClass\personOneClass.jcp</path>
+		</project>
+		<project>
+			<path>lukesAge\lukesAge.jcp</path>
+		</project>
+		<project>
+			<path>alarmsWithLists\alarmsWithLists.jcp</path>
+		</project>
+	</projects>
+</workspace>

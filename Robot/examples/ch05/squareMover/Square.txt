@@ -1,0 +1,21 @@
+
+SquareMover
+0 0 8 8
+40
+
+   becker.robots.Wall 4 1 South
+   becker.robots.Wall 4 1 West
+   becker.robots.Wall 3 1 West
+   becker.robots.Wall 2 1 West
+   becker.robots.Wall 1 1 North
+   becker.robots.Wall 1 1 West
+   becker.robots.Wall 4 2 South
+   becker.robots.Wall 1 2 North
+   becker.robots.Wall 4 3 South
+   becker.robots.Wall 1 3 North
+   becker.robots.Wall 4 4 South
+   becker.robots.Wall 4 4 East
+   becker.robots.Wall 3 4 East
+   becker.robots.Wall 2 4 East
+   becker.robots.Wall 1 4 North
+   becker.robots.Wall 1 4 East

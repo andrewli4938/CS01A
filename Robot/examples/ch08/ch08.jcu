@@ -1,0 +1,36 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>alarmsWithLists</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>alarmSound</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>collaborativePerson</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>collections</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>alarmClock</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>personOneClass</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>lukesAge</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>alarmsWithLists</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+</workspace_user>

@@ -1,0 +1,44 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>switchLights</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>extendIcon</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>drawing</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>stickFigure</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>extendThing</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>override</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>experiment</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
+			<label>switchLights</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>switchLights\SwitchBot.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+</workspace_user>
